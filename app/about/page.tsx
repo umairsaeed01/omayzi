@@ -229,7 +229,7 @@ export default function AboutPage() {
             <div className="group">
               <div className="relative overflow-hidden rounded-lg mb-4">
                 <Image
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=2787&auto=format&fit=crop"
+                  src="omar.jpeg"
                   alt="Omar Malik"
                   width={400}
                   height={500}
